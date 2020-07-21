@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/temp/static/css/main.0231b097.chunk.css",
-    "main.js": "/temp/static/js/main.26eea33d.chunk.js",
-    "main.js.map": "/temp/static/js/main.26eea33d.chunk.js.map",
-    "runtime-main.js": "/temp/static/js/runtime-main.fe661a04.js",
-    "runtime-main.js.map": "/temp/static/js/runtime-main.fe661a04.js.map",
-    "static/js/2.c8f1eaab.chunk.js": "/temp/static/js/2.c8f1eaab.chunk.js",
-    "static/js/2.c8f1eaab.chunk.js.map": "/temp/static/js/2.c8f1eaab.chunk.js.map",
-    "index.html": "/temp/index.html",
-    "precache-manifest.d083410afad92766ed4681a491a33e65.js": "/temp/precache-manifest.d083410afad92766ed4681a491a33e65.js",
-    "service-worker.js": "/temp/service-worker.js",
-    "static/css/main.0231b097.chunk.css.map": "/temp/static/css/main.0231b097.chunk.css.map",
-    "static/js/2.c8f1eaab.chunk.js.LICENSE.txt": "/temp/static/js/2.c8f1eaab.chunk.js.LICENSE.txt",
-    "static/media/mux.png": "/temp/static/media/mux.df16fa74.png",
-    "static/media/rolls-royce.mp4": "/temp/static/media/rolls-royce.9269f58b.mp4",
-    "static/media/rolls.png": "/temp/static/media/rolls.476128d4.png"
+    "main.css": "/ReactJs_Imps/static/css/main.0231b097.chunk.css",
+    "main.js": "/ReactJs_Imps/static/js/main.0a8885e2.chunk.js",
+    "main.js.map": "/ReactJs_Imps/static/js/main.0a8885e2.chunk.js.map",
+    "runtime-main.js": "/ReactJs_Imps/static/js/runtime-main.bd960836.js",
+    "runtime-main.js.map": "/ReactJs_Imps/static/js/runtime-main.bd960836.js.map",
+    "static/js/2.c8f1eaab.chunk.js": "/ReactJs_Imps/static/js/2.c8f1eaab.chunk.js",
+    "static/js/2.c8f1eaab.chunk.js.map": "/ReactJs_Imps/static/js/2.c8f1eaab.chunk.js.map",
+    "index.html": "/ReactJs_Imps/index.html",
+    "precache-manifest.681151f4dfac886ba235f454d149d23e.js": "/ReactJs_Imps/precache-manifest.681151f4dfac886ba235f454d149d23e.js",
+    "service-worker.js": "/ReactJs_Imps/service-worker.js",
+    "static/css/main.0231b097.chunk.css.map": "/ReactJs_Imps/static/css/main.0231b097.chunk.css.map",
+    "static/js/2.c8f1eaab.chunk.js.LICENSE.txt": "/ReactJs_Imps/static/js/2.c8f1eaab.chunk.js.LICENSE.txt",
+    "static/media/mux.png": "/ReactJs_Imps/static/media/mux.df16fa74.png",
+    "static/media/rolls-royce.mp4": "/ReactJs_Imps/static/media/rolls-royce.9269f58b.mp4",
+    "static/media/rolls.png": "/ReactJs_Imps/static/media/rolls.476128d4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe661a04.js",
+    "static/js/runtime-main.bd960836.js",
     "static/js/2.c8f1eaab.chunk.js",
     "static/css/main.0231b097.chunk.css",
-    "static/js/main.26eea33d.chunk.js"
+    "static/js/main.0a8885e2.chunk.js"
   ]
 }
