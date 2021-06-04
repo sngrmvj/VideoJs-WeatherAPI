@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ReactJs_Imps/static/css/main.4fa833e0.chunk.css",
-    "main.js": "/ReactJs_Imps/static/js/main.3e4d2707.chunk.js",
-    "main.js.map": "/ReactJs_Imps/static/js/main.3e4d2707.chunk.js.map",
-    "runtime-main.js": "/ReactJs_Imps/static/js/runtime-main.bd960836.js",
-    "runtime-main.js.map": "/ReactJs_Imps/static/js/runtime-main.bd960836.js.map",
-    "static/js/2.3c3c46dc.chunk.js": "/ReactJs_Imps/static/js/2.3c3c46dc.chunk.js",
-    "static/js/2.3c3c46dc.chunk.js.map": "/ReactJs_Imps/static/js/2.3c3c46dc.chunk.js.map",
-    "index.html": "/ReactJs_Imps/index.html",
-    "precache-manifest.314e350ecfae5b8bb1c69701e0dd4618.js": "/ReactJs_Imps/precache-manifest.314e350ecfae5b8bb1c69701e0dd4618.js",
-    "service-worker.js": "/ReactJs_Imps/service-worker.js",
-    "static/css/main.4fa833e0.chunk.css.map": "/ReactJs_Imps/static/css/main.4fa833e0.chunk.css.map",
-    "static/js/2.3c3c46dc.chunk.js.LICENSE.txt": "/ReactJs_Imps/static/js/2.3c3c46dc.chunk.js.LICENSE.txt",
-    "static/media/Lamborghini.mp4": "/ReactJs_Imps/static/media/Lamborghini.f789cf1c.mp4",
-    "static/media/lambo.jpg": "/ReactJs_Imps/static/media/lambo.55685b9f.jpg",
-    "static/media/mux.png": "/ReactJs_Imps/static/media/mux.df16fa74.png",
-    "static/media/rolls-royce.mp4": "/ReactJs_Imps/static/media/rolls-royce.9269f58b.mp4",
-    "static/media/rolls.png": "/ReactJs_Imps/static/media/rolls.476128d4.png"
+    "main.css": "/VideoJs-WeatherAPI/static/css/main.4fa833e0.chunk.css",
+    "main.js": "/VideoJs-WeatherAPI/static/js/main.1a6383ed.chunk.js",
+    "main.js.map": "/VideoJs-WeatherAPI/static/js/main.1a6383ed.chunk.js.map",
+    "runtime-main.js": "/VideoJs-WeatherAPI/static/js/runtime-main.6493b489.js",
+    "runtime-main.js.map": "/VideoJs-WeatherAPI/static/js/runtime-main.6493b489.js.map",
+    "static/js/2.ef2e15e7.chunk.js": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js",
+    "static/js/2.ef2e15e7.chunk.js.map": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js.map",
+    "index.html": "/VideoJs-WeatherAPI/index.html",
+    "precache-manifest.445fcfeaadd6e86f087f38f3bb776dae.js": "/VideoJs-WeatherAPI/precache-manifest.445fcfeaadd6e86f087f38f3bb776dae.js",
+    "service-worker.js": "/VideoJs-WeatherAPI/service-worker.js",
+    "static/css/main.4fa833e0.chunk.css.map": "/VideoJs-WeatherAPI/static/css/main.4fa833e0.chunk.css.map",
+    "static/js/2.ef2e15e7.chunk.js.LICENSE.txt": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js.LICENSE.txt",
+    "static/media/Porsche.mp4": "/VideoJs-WeatherAPI/static/media/Porsche.380d24da.mp4",
+    "static/media/mux.png": "/VideoJs-WeatherAPI/static/media/mux.df16fa74.png",
+    "static/media/porsche.jpeg": "/VideoJs-WeatherAPI/static/media/porsche.2a369a94.jpeg",
+    "static/media/rolls-royce.mp4": "/VideoJs-WeatherAPI/static/media/rolls-royce.9269f58b.mp4",
+    "static/media/rolls.png": "/VideoJs-WeatherAPI/static/media/rolls.476128d4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd960836.js",
-    "static/js/2.3c3c46dc.chunk.js",
+    "static/js/runtime-main.6493b489.js",
+    "static/js/2.ef2e15e7.chunk.js",
     "static/css/main.4fa833e0.chunk.css",
-    "static/js/main.3e4d2707.chunk.js"
+    "static/js/main.1a6383ed.chunk.js"
   ]
 }
