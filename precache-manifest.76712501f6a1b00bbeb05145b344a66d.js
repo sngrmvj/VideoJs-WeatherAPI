@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05f644733fabcdac33e76c9e82542334",
+    "revision": "9777d7bb73eda9ad858f396fa432c06c",
     "url": "/VideoJs-WeatherAPI/index.html"
   },
   {
-    "revision": "e0131fee0148a6733564",
+    "revision": "05cef0c53bc9fcfdb9e6",
     "url": "/VideoJs-WeatherAPI/static/css/main.4fa833e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0131fee0148a6733564",
-    "url": "/VideoJs-WeatherAPI/static/js/main.1a6383ed.chunk.js"
+    "revision": "05cef0c53bc9fcfdb9e6",
+    "url": "/VideoJs-WeatherAPI/static/js/main.e44ca7f4.chunk.js"
   },
   {
     "revision": "2c433511e6c9ebf2efab",

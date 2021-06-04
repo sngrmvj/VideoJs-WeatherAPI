@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VideoJs-WeatherAPI/static/css/main.4fa833e0.chunk.css",
-    "main.js": "/VideoJs-WeatherAPI/static/js/main.1a6383ed.chunk.js",
-    "main.js.map": "/VideoJs-WeatherAPI/static/js/main.1a6383ed.chunk.js.map",
+    "main.js": "/VideoJs-WeatherAPI/static/js/main.e44ca7f4.chunk.js",
+    "main.js.map": "/VideoJs-WeatherAPI/static/js/main.e44ca7f4.chunk.js.map",
     "runtime-main.js": "/VideoJs-WeatherAPI/static/js/runtime-main.6493b489.js",
     "runtime-main.js.map": "/VideoJs-WeatherAPI/static/js/runtime-main.6493b489.js.map",
     "static/js/2.ef2e15e7.chunk.js": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js",
     "static/js/2.ef2e15e7.chunk.js.map": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js.map",
     "index.html": "/VideoJs-WeatherAPI/index.html",
-    "precache-manifest.445fcfeaadd6e86f087f38f3bb776dae.js": "/VideoJs-WeatherAPI/precache-manifest.445fcfeaadd6e86f087f38f3bb776dae.js",
+    "precache-manifest.76712501f6a1b00bbeb05145b344a66d.js": "/VideoJs-WeatherAPI/precache-manifest.76712501f6a1b00bbeb05145b344a66d.js",
     "service-worker.js": "/VideoJs-WeatherAPI/service-worker.js",
     "static/css/main.4fa833e0.chunk.css.map": "/VideoJs-WeatherAPI/static/css/main.4fa833e0.chunk.css.map",
     "static/js/2.ef2e15e7.chunk.js.LICENSE.txt": "/VideoJs-WeatherAPI/static/js/2.ef2e15e7.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6493b489.js",
     "static/js/2.ef2e15e7.chunk.js",
     "static/css/main.4fa833e0.chunk.css",
-    "static/js/main.1a6383ed.chunk.js"
+    "static/js/main.e44ca7f4.chunk.js"
   ]
 }

@@ -4,14 +4,11 @@
 body{
     background-color: white;
     /* background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%); */
-    /* background-image: url('i4.jpg'); */
     background-size: cover;
 
 }
 
 .video_widget{
-    /* float:left; */
-    /* box-shadow: 0 0 2px gray; */
     border-radius: 10px;
     background-color: transparent;
 }
